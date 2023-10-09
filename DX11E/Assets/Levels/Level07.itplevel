@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "type": "itplevel",
+    "version": 2
+  },
+
+  "camera": {
+    "position": [ -200.0, 0.0, 100.0 ],
+    "rotation": [ 0.0, 0.0, 0.0, 1.0 ]
+  },
+
+  "lightingData": {
+    "ambient": [ 0.1, 0.1, 0.1 ]
+  },
+
+  "renderObjects": [
+    {
+      "position": [ -50.0, -100.0, 150.0 ],
+      "rotation": [ 0.0, 0.0, 0.0, 1.0 ],
+      "scale": 0.5,
+      "mesh": "Assets/Meshes/LightSphere.itpmesh3",
+      "components": [
+        {
+          "type": "PointLight",
+          "lightColor": [ 0.0, 1.0, 0.0 ],
+          "innerRadius": 125.0,
+          "outerRadius": 250.0
+        }
+      ]
+    },
+    {
+      "position": [ 0.0, 50.0, 50.0 ],
+      "rotation": [ 0.0, 0.0, 0.0, 1.0 ],
+      "scale": 0.5,
+      "mesh": "Assets/Meshes/LightSphere.itpmesh3",
+      "components": [
+        {
+          "type": "PointLight",
+          "lightColor": [ 0.0, 0.0, 1.0 ],
+          "innerRadius": 125.0,
+          "outerRadius": 250.0
+        }
+      ]
+    },
+    {
+      "position": [ 0.0, 0.0, 0.0 ],
+      "rotation": [ 0.0, 0.0, 0.0, 1.0 ],
+      "scale": 5.0,
+      "mesh": "Assets/Meshes/Platform.itpmesh3",
+      "components": [ ]
+    },
+    {
+      "position": [ 650.0, -50.0, 0.0 ],
+      "rotation": [ 0.0, 0.0, 0.0, 1.0 ],
+      "scale": 5.0,
+      "mesh": "Assets/Meshes/Platform.itpmesh3",
+      "components": [ ]
+    },
+    {
+      "position": [ 0.0, 0.0, 0.0 ],
+      "rotation": [ 0.0, 0.0, 0.0, 1.0 ],
+      "scale": 1.0,
+      "mesh": "Assets/Meshes/SK_Mannequin.itpmesh3",
+      "components": [
+        {
+          "type": "Character",
+          "skeleton": "Assets/Anims/SK_Mannequin.itpskel",
+          "animations": [
+            [ "idle", "Assets/Anims/ThirdPersonIdle.itpanim2" ],
+            [ "run", "Assets/Anims/ThirdPersonRun.itpanim2" ],
+            [ "jumpStart", "Assets/Anims/ThirdPersonJump_Start.itpanim2" ],
+            [ "jump", "Assets/Anims/ThirdPersonJump_Loop.itpanim2" ],
+            [ "land", "Assets/Anims/ThirdPersonJump_End.itpanim2" ],
+            [ "fall", "Assets/Anims/ThirdPersonJump_Loop.itpanim2" ]
+          ]
+        }
+      ]
+    }
+  ]
+}

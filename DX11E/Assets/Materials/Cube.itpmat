@@ -1,0 +1,13 @@
+{
+    "metadata": {
+        "type": "itpmat",
+        "version": 1
+    },
+    "shader": "BasicMesh",
+    "textures": [
+        "Assets/Textures/Cube.png"
+    ],
+    "diffuseColor": [ 1.0, 1.0, 1.0 ],
+    "specularColor": [ 1.0, 1.0, 1.0 ],
+    "specularPower": 10.0
+}

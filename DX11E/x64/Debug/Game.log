@@ -1,0 +1,3 @@
+﻿  game.cpp
+C:\Users\rogue\OneDrive\Desktop\itp485\labs-meganfriedenberg\Lab13_DeferredRendering\Source\game.cpp(281,12): warning C4101: 'treeIndex': unreferenced local variable
+  Game.vcxproj -> C:\Users\rogue\OneDrive\Desktop\itp485\labs-meganfriedenberg\Lab13_DeferredRendering\x64\Debug\Game.exe

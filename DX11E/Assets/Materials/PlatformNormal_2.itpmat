@@ -1,0 +1,14 @@
+{
+    "metadata": {
+        "type": "itpmat",
+        "version": 1
+    },
+    "shader": "Normal",
+    "textures": [
+        "Assets/Textures/Platform.png",
+        "Assets/Textures/normal_map_2.png"
+    ],
+    "diffuseColor": [ 1.0, 1.0, 1.0 ],
+    "specularColor": [ 1.0, 1.0, 1.0 ],
+    "specularPower": 10.0
+}

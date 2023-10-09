@@ -1,0 +1,13 @@
+{
+    "metadata": {
+        "type": "itpmat",
+        "version": 1
+    },
+    "shader": "Phong",
+    "textures": [
+        "Assets/Textures/PlayerShip.dds"
+    ],
+    "diffuseColor": [ 1.0, 1.0, 1.0 ],
+    "specularColor": [ 1.0, 1.0, 1.0 ],
+    "specularPower": 10.0
+}

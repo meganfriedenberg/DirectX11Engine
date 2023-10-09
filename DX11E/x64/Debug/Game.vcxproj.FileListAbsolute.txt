@@ -1,0 +1,6 @@
+C:\Users\rogue\OneDrive\Desktop\itp485\labs-meganfriedenberg\Lab04_Texture\x64\Debug\Game.exe
+C:\Users\rogue\OneDrive\Desktop\itp485\labs-meganfriedenberg\Lab05_Lighting\x64\Debug\Game.exe
+C:\Users\rogue\OneDrive\Desktop\itp485\labs-meganfriedenberg\Lab06_Model\x64\Debug\Game.exe
+C:\Users\rogue\OneDrive\Desktop\itp485\labs-meganfriedenberg\Lab11_Bloom\x64\Debug\Game.exe
+C:\Users\rogue\OneDrive\Desktop\itp485\labs-meganfriedenberg\Lab12_GeometryShader\x64\Debug\Game.exe
+C:\Users\rogue\OneDrive\Desktop\itp485\labs-meganfriedenberg\Lab13_DeferredRendering\x64\Debug\Game.exe

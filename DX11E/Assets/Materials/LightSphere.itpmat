@@ -1,0 +1,10 @@
+{
+    "metadata": {
+        "type": "itpmat",
+        "version": 1
+    },
+    "shader": "Unlit",
+    "textures": [
+        "Assets/Textures/LightWhite.dds"
+    ]
+}

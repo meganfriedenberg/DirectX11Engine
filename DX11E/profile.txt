@@ -1,0 +1,4 @@
+name:, avg(ms), max(ms)
+FrameLimit:, 0.530006, 12.955000
+Update:, 0.123427, 0.681800
+RenderFrame:, 0.364069, 12.664100

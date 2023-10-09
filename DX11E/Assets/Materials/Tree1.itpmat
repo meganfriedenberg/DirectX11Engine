@@ -1,0 +1,13 @@
+{
+    "metadata": {
+        "type": "itpmat",
+        "version": 1
+    },
+    "shader": "Phong",
+    "textures": [
+        "Assets/Textures/treeBark.jpg"
+    ],
+    "diffuseColor": [ 1.0, 1.0, 1.0 ],
+    "specularColor": [ 1.0, 1.0, 1.0 ],
+    "specularPower": 100.0
+}
